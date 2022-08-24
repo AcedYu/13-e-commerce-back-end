@@ -1,6 +1,6 @@
 # 13-e-commerce-back-end
 This assignment was assigned by the U.C. Berkeley Extension Full-time Full Stack Flex Boot Camp.
-This is assignment 13 forthe program. In this assignment I was tasked to buidl the back end for an e-commerce site by modifying the given starter code. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
+This is assignment 13 forthe program. In this assignment I was tasked to build the back end for an e-commerce site by modifying the given starter code. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
 It contains notable features such as:
 - protection of important login information using .env
